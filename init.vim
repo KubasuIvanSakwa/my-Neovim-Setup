@@ -1,3 +1,4 @@
+" my first vim setup
 :set number
 :set relativenumber
 :set autoindent
